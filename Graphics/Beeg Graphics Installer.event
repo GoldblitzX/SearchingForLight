@@ -1,0 +1,13 @@
+#include "BattleAnims/BattleAnims Installer.event"
+
+#include "BattlePals/BattlePals Installer.event"
+
+#include "ClassCards/ClassCards Installer.event"
+
+#include "ItemIcons/ItemIcon Installer.event"
+
+#include "MapSprites/MapSprite Installer.event"
+
+#include "Portraits/Portraits Installer.event"
+
+#include "SpellAnims/SpellAnims Installer.event"

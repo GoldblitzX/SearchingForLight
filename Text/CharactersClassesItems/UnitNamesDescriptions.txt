@@ -1,0 +1,372 @@
+## AidrianName
+Aidrian[X]
+
+## AidrianDesc
+A former knight of Argonax.[N]
+Deserted at the end of the Golden[N]
+war.[X]
+
+## SirinName
+Sirin[X]
+
+## SirinDesc
+Aidrian's daughter.[N]
+Not a very good leader.[X]
+
+## DelilahName
+Dua[X]
+
+## DelDesc
+A young villager from Arus.[N]
+Has strange visions of the past.[X]
+
+## TeddyName
+Teddy[X]
+
+## TedDesc
+A thug from Vergill with[N]
+no aspirations in life.[X]
+
+## HitchName
+Hitch[X]
+
+## HitchDesc
+A wanderer drifting through[N]
+the wilds of Halash. Detached.[X]
+
+## PolinaName
+Polina[X]
+
+## PolinaDesc
+balls.[X]
+
+## BennetName
+Bennet[X]
+
+## BennetDesc
+A young man from Argonax who[N]
+believes in the power of love.[X]
+
+## ShilohName
+Shiloh[X]
+
+## ShilohDesc
+H.[X]
+
+## BiancaName
+Bianca[X]
+
+## BiancaDesc
+A[X]
+
+## TulliaName
+Tullia[X]
+
+## TulliaDesc
+KK.[X]
+
+## MelorName
+Melor[X]
+
+## MelorDesc
+Hahafunny.[X]
+
+## CelesteName
+Celeste[X]
+
+## CelesteDesc
+I.[X]
+
+## GenesioName
+Genesio[X]
+
+## GenesioDesc
+Man.[X]
+
+## AssuntaName
+Assunta[X]
+
+## AssuntaDesc
+Wo.[X]
+
+## SanyaName
+Sanya[X]
+
+## SanyaDesc
+Sa.[X]
+
+## ClarenceName
+Clarence[X]
+
+## ClarenceDesc
+CC.[X]
+
+## ValeriyaName
+Valeriya[X]
+
+## ValeriyaDesc
+Sis.[X]
+
+## DaneName
+Dane[X]
+
+## DaneDesc
+heho.[X]
+
+## AmyName
+Amy[X]
+
+## AmyDesc
+Funny.[X]
+
+## DavisName
+Davis[X]
+
+## DavisDesc
+Dave.[X]
+
+## PatrickName
+Patrick[X]
+
+## PatrickDesc
+Pat.[X]
+
+## TovalName
+Toval[X]
+
+## TovalDesc
+Toby.[X]
+
+## TexenName
+Texen[X]
+
+## TexenDesc
+Texas.[X]
+
+## MaraName
+Mara[X]
+
+## MaraDesc
+Noble.[X]
+
+## RufinaName
+Rufina[X]
+
+## RufinaDesc
+Regent.[X]
+
+## DenisName
+Denis[X]
+
+## DenisDesc
+Hunter.[X]
+
+## DamascusName
+Damascus[X]
+
+## DamascusDesc
+Father.[X]
+
+## TalibName
+Talib[X]
+
+## TalibDesc
+Priest.[X]
+
+## JalilaName
+Jalila[X]
+
+## JalilaDesc
+Partner.[X]
+
+## NadiaName
+Nadia[X]
+
+## NadiaDesc
+Fighter.[X]
+
+## ThamirName
+Thamir[X]
+
+## ThamirDesc
+Brother.[X]
+
+## DaniilName
+Daniil[X]
+
+## DaniilDesc
+Bard.[X]
+
+## HallidayName
+Halliday[X]
+
+## HallidayDesc
+Princess.[X]
+
+## AydaName
+Ayda[X]
+
+## AydaDesc
+Swordmaster.[X]
+
+## HanifName
+Hanif[X]
+
+## HanifDesc
+Funnyman.[X]
+
+## BrandonName
+Brandon[X]
+
+## BrandonDesc
+Gotoh1.[X]
+
+## VanaName
+Vana[X]
+
+## VanaDesc
+Mother.[X]
+
+## RomoloName
+Romolo[X]
+
+## RomoloDesc
+FunnyPaladin.[X]
+
+## EmilName
+Emil[X]
+
+## EmilDesc
+OtherPaladin.[X]
+
+## FerisName
+Feris[X]
+
+## FerisDesc
+loll.[X]
+
+## JuliyaName
+Juliya[X]
+
+## JuliyaDesc
+Assassin.[X]
+
+## JonName
+Jon[X]
+
+## JonDesc
+Myrm.[X]
+
+## YvonneName
+Yvonne[X]
+
+## YvonneDesc
+Fem!Pal.[X]
+
+## FajrName
+Fajr[X]
+
+## FajrDesc
+ahaha.[X]
+
+## AelitaName
+Aelita[X]
+
+## AelitaDesc
+Adventurer.[X]
+
+## HalaName
+Hala[X]
+
+## HalaDesc
+Wyvernlord.[X]
+
+## LoannName
+Loann[X]
+
+## LoannDesc
+General.[X]
+
+## JumanaName
+Jumana[X]
+
+## JumanaDesc
+Scout.[X]
+
+## JebediahName
+Jebediah[X]
+
+## JebediahDesc
+I love you.[X]
+
+## BenitoName
+Benito[X]
+
+## BenitoDesc
+Ha! Gay.[X]
+
+## GiannaName
+Gianna[X]
+
+## GiannaDesc
+LanceKnight.[X]
+
+## DylanName
+Dylan[X]
+
+## DylanDesc
+Blue hair AND pronouns?[X]
+
+## PierName
+Pier[X]
+
+## PierDesc
+God.[X]
+
+## LarkName
+Lark[X]
+
+## LarkDesc
+Pirate.[X]
+
+## YaniceName
+Yanice[X]
+
+## YaniceDesc
+Amogus.[X]
+
+## NeroName
+Nero[X]
+
+## NeroDesc
+JJJJ.[X]
+
+## HaidarName
+Haidar[X]
+
+## HaidarDesc
+Strong Man.[X]
+
+## OnyxName
+Onyx[X]
+
+## OnyxDesc
+Gotoh2[X]
+
+## FerapontName
+Ferapont[X]
+
+## FerapontDesc
+Gotoh3[X]
+
+## ClementName
+Clement[X]
+
+## ClementDesc
+Gayyy.[X]
+
+## YleniaName
+Ylenia[X]
+
+## YleniaDesc
+Girl.[X]

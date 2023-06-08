@@ -1,0 +1,218 @@
+## AxemenName
+Axeman[X]
+
+## AxemenDesc
+Wanderers with no home[N]
+to call their own.[X]
+
+## Veteran
+Veteran[X]
+
+## VeteranDesc
+Retired soldiers who served[N]
+in a previous war.[X]
+
+## LanceMaster
+^{Royal Knight}[X]
+
+## LanceMDesc
+Veteran knights with a newfound[N]
+flame in their hearts.[X]
+
+## LanceKnight
+Lance Knight[X]
+
+## LanceKDesc
+Equip: Lance.[X]
+
+## AxeKnight
+Axe Knight[X]
+
+## AxeKDesc
+Equip: Axes.[X]
+
+## LancePal
+^{Lance Paladin}[X]
+
+## LancePalDesc
+Equip: Lances.[X]
+
+## AxePal
+^{Axe Paladin}[X]
+
+## AxePalDesc
+Equip: Axes.[X]
+
+## LanceArmor
+^{Lance Armor}[X]
+
+## LanceArmDesc
+Equip: Lances.[X]
+
+## AxeArmor
+^{Axe Armor}[X]
+
+## AxeArmDesc
+Equip: Axes.[X]
+
+## DracoMaster
+^{Dragon Master}[X]
+
+## Sorceror
+Sorceror[X]
+
+## SorcererDesc
+Equip: Anima, Dark.[X]
+
+## SwordKnight
+Sword Knight[X]
+
+## SwordKDesc
+Equip: Swords.[X]
+
+## SwordPal
+^{Sword Paladin}[X]
+
+## SwordPalDesc
+Equip: Swords.[X]
+
+## FalconKnight
+^{Falcon Knight}[X]
+
+## PegKnight
+^{Pegasus Knight}[X]
+
+## LanceSold
+Lance Soldier[X]
+
+## FreeLance
+Freelancer[X]
+
+## FreeLanceDesc
+Equip: Lances.[X]
+
+## Champ
+Champion[X]
+
+## ChampDesc
+Equip: Lances.[X]
+
+## SwordSold
+Sword Soldier[X]
+
+## SwordSoldDesc
+Equip: Swords.[X]
+
+## AxeSold
+Axe Soldier[X]
+
+## AxeSoldDesc
+Equip: Axes.[X]
+
+## Sentinel
+Sentinel[X]
+
+## SentinelDesc
+Equip: Lance, Axe, Swords.[X]
+
+## Thug
+Thug[X]
+
+## ThugDesc
+Equip: Swords.[X]
+
+## Seer
+Seer[X]
+
+## SeerDesc
+Equip: Staves, Dark.[X]
+
+## Archsage
+Archsage[X]
+
+## ArchSageDesc
+Equip: All Magic.[X]
+
+## Protege
+Protege[X]
+
+## ProtegeDesc
+Equip: Lances.[X]
+
+## Duelist
+Duelist[X]
+
+## DuelistDesc
+Equip: Swords, Lances.[X]
+
+## SwordArm
+^{Sword Armor}[X]
+
+## SwordArmDesc
+Equip: Swords.[X]
+
+## BowArm
+^{Bow Armor}[X]
+
+## BowArmDesc
+Equip: Bows.[X]
+
+## Thief
+Thief[X]
+
+## ThiefF
+Thief[X]
+
+## ThiefNB
+Thief[X]
+
+## General
+General[X]
+
+## Merc
+Mercenary[X]
+
+## MercF
+Mercenary[X]
+
+## Hero
+Hero[X]
+
+## HeroF
+Hero[X]
+
+## Myrm
+Myrmidon[X]
+
+## SwordMast
+Swordmaster[X]
+
+## SwordMastF
+Swordmaster[X]
+
+## Assassin
+Assassin[X]
+
+## Archer
+Archer[X]
+
+## ArcherF
+Archer[X]
+
+## Sniper
+Sniper[X]
+
+## SniperF
+Sniper[X]
+
+## Ranger
+Ranger[X]
+
+## RangerF
+Ranger[X]
+
+## Scout
+Scout[X]
+
+## ScoutF
+Scout[X]
