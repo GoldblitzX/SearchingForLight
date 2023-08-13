@@ -3,7 +3,22 @@
 
 // Blues
 #define AidsMug 0x02
-
+#define PolinaMug 0x03
+#define HitchMug 0x04
+#define ShilohMug 0x05
+#define AssuntaMug 0x06
+#define BenitoMug 0x07
+#define BennetMug 0x08
+#define BiancaMug 0x09
+#define CelesteMug 0x0A
+#define YleniaMug 0x0B
+#define ValeriyaMug 0x0C
+#define YaniceMug 0x0D
+#define JonMug 0x0E
+#define GenesioMug 0x0F
+#define AmyMug 0x10
+#define GiannaMug 0x11
+#define TulliaMug 0x12
 // Greens
 
 // Reds
@@ -16,5 +31,130 @@ AidrianMugInfo:
 #incbin "Dmp/Aids_minimug.dmp"
 setMugEntry(AidsMug, AidrianMugInfo, 3, 5, 3, 3)
 
+ALIGN 16
+PolinaMugInfo:
+#incbin "Dmp/PolayStupidGames_mug.dmp"
+#incbin "Dmp/PolayStupidGames_frames.dmp"
+#incbin "Dmp/PolayStupidGames_palette.dmp"
+#incbin "Dmp/PolayStupidGames_minimug.dmp"
+setMugEntry(PolinaMug, PolinaMugInfo, 3, 6, 3, 3)
 
+ALIGN 16
+HitchMugInfo:
+#incbin "Dmp/Ellipses_mug.dmp"
+#incbin "Dmp/Ellipses_frames.dmp"
+#incbin "Dmp/Ellipses_palette.dmp"
+#incbin "Dmp/Ellipses_minimug.dmp"
+setMugEntry(HitchMug, HitchMugInfo, 3, 5, 3, 3)
 
+ALIGN 16
+ShilohMugInfo:
+#incbin "Dmp/Hiiii_mug.dmp"
+#incbin "Dmp/Hiiii_frames.dmp"
+#incbin "Dmp/Hiiii_palette.dmp"
+#incbin "Dmp/Hiiii_minimug.dmp"
+setMugEntry(ShilohMug, ShilohMugInfo, 3, 6, 3, 3)
+
+ALIGN 16
+AssuntaMugInfo:
+#incbin "Dmp/Assburgers_mug.dmp"
+#incbin "Dmp/Assburgers_frames.dmp"
+#incbin "Dmp/Assburgers_palette.dmp"
+#incbin "Dmp/Assburgers_minimug.dmp"
+setMugEntry(AssuntaMug, AssuntaMugInfo, 4, 6, 4, 4)
+
+ALIGN 16
+BenitoMugInfo:
+#incbin "Dmp/Benniiii_mug.dmp"
+#incbin "Dmp/Benniiii_frames.dmp"
+#incbin "Dmp/Benniiii_palette.dmp"
+#incbin "Dmp/Benniiii_minimug.dmp"
+setMugEntry(BenitoMug, BenitoMugInfo, 3, 5, 3, 3)
+
+ALIGN 16
+BennetMugInfo:
+#incbin "Dmp/Bennyyyy_mug.dmp"
+#incbin "Dmp/Bennyyyy_frames.dmp"
+#incbin "Dmp/Bennyyyy_palette.dmp"
+#incbin "Dmp/Bennyyyy_minimug.dmp"
+setMugEntry(BennetMug, BennetMugInfo, 3, 5, 3, 3)
+
+ALIGN 16
+BiancaMugInfo:
+#incbin "Dmp/Bianca_mug.dmp"
+#incbin "Dmp/Bianca_frames.dmp"
+#incbin "Dmp/Bianca_palette.dmp"
+#incbin "Dmp/Bianca_minimug.dmp"
+setMugEntry(BiancaMug, BiancaMugInfo, 3, 6, 3, 4)
+
+ALIGN 16
+CelesteMugInfo:
+#incbin "Dmp/Celeste_mug.dmp"
+#incbin "Dmp/Celeste_frames.dmp"
+#incbin "Dmp/Celeste_palette.dmp"
+#incbin "Dmp/Celeste_minimug.dmp"
+setMugEntry(CelesteMug, CelesteMugInfo, 3, 6, 3, 4)
+
+ALIGN 16
+YleniaMugInfo:
+#incbin "Dmp/Fireeeeee_mug.dmp"
+#incbin "Dmp/Fireeeeee_frames.dmp"
+#incbin "Dmp/Fireeeeee_palette.dmp"
+#incbin "Dmp/Fireeeeee_minimug.dmp"
+setMugEntry(YleniaMug, YleniaMugInfo, 2, 6, 2, 4)
+
+ALIGN 16
+ValeriyaMugInfo:
+#incbin "Dmp/HoponGuiltygear_mug.dmp"
+#incbin "Dmp/HoponGuiltygear_frames.dmp"
+#incbin "Dmp/HoponGuiltygear_palette.dmp"
+#incbin "Dmp/HoponGuiltygear_minimug.dmp"
+setMugEntry(ValeriyaMug, ValeriyaMugInfo, 3, 5, 3, 3)
+
+ALIGN 16
+YaniceMugInfo:
+#incbin "Dmp/Laurel_mug.dmp"
+#incbin "Dmp/Laurel_frames.dmp"
+#incbin "Dmp/Laurel_palette.dmp"
+#incbin "Dmp/Laurel_minimug.dmp"
+setMugEntry(YaniceMug, YaniceMugInfo, 3, 5, 3, 3)
+
+ALIGN 16
+JonMugInfo:
+#incbin "Dmp/Legendary_mug.dmp"
+#incbin "Dmp/Legendary_frames.dmp"
+#incbin "Dmp/Legendary_palette.dmp"
+#incbin "Dmp/Legendary_minimug.dmp"
+setMugEntry(JonMug, JonMugInfo, 3, 5, 3, 3)
+
+ALIGN 16
+GenesioMugInfo:
+#incbin "Dmp/MasterSystemio_mug.dmp"
+#incbin "Dmp/MasterSystemio_frames.dmp"
+#incbin "Dmp/MasterSystemio_palette.dmp"
+#incbin "Dmp/MasterSystemio_minimug.dmp"
+setMugEntry(GenesioMug, GenesioMugInfo, 2, 5, 2, 3)
+
+ALIGN 16
+AmyMugInfo:
+#incbin "Dmp/oomfie_mug.dmp"
+#incbin "Dmp/oomfie_frames.dmp"
+#incbin "Dmp/oomfie_palette.dmp"
+#incbin "Dmp/oomfie_minimug.dmp"
+setMugEntry(AmyMug, AmyMugInfo, 3, 5, 3, 3)
+
+ALIGN 16
+GiannaMugInfo:
+#incbin "Dmp/Recoildamage_mug.dmp"
+#incbin "Dmp/Recoildamage_frames.dmp"
+#incbin "Dmp/Recoildamage_palette.dmp"
+#incbin "Dmp/Recoildamage_minimug.dmp"
+setMugEntry(GiannaMug, GiannaMugInfo, 3, 5, 3, 3)
+
+ALIGN 16
+TulliaMugInfo:
+#incbin "Dmp/Shupup_mug.dmp"
+#incbin "Dmp/Shupup_frames.dmp"
+#incbin "Dmp/Shupup_palette.dmp"
+#incbin "Dmp/Shupup_minimug.dmp"
+setMugEntry(TulliaMug, TulliaMugInfo, 3, 6, 3, 4)

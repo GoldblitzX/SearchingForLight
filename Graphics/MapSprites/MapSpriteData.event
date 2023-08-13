@@ -1,0 +1,322 @@
+
+ALIGN 4
+VetStand:
+#incbin "Dmp/Veteran{Snewping}-stand.dmp"
+ALIGN 4
+VetMove:
+#incbin "Dmp/Veteran{Snewping}-walk.dmp"
+ALIGN 4
+AxeManStand:
+#incbin "Dmp/Axeman{Zoramine}-stand.dmp"
+ALIGN 4
+AxeManMove:
+#incbin "Dmp/Axeman{Zoramine}-walk.dmp"
+ALIGN 4
+LanceKnightStand:
+#incbin "Dmp/Cavalier (M) Lance {SALVAGED}-stand.dmp"
+ALIGN 4
+LanceKnightMove:
+#incbin "Dmp/Cavalier (M) Lance {SALVAGED}-walk.dmp"
+ALIGN 4
+SwordKnightStand:
+#incbin "Dmp/Cavalier (M) Sword {SALVAGED}-stand.dmp"
+ALIGN 4
+SwordKnightMove:
+#incbin "Dmp/Cavalier (M) Sword {SALVAGED}-walk.dmp"
+ALIGN 4
+AxeKnightStand:
+#incbin "Dmp/Cavalier (M) Axe {SALVAGED}-stand.dmp"
+ALIGN 4
+AxeKnightMove:
+#incbin "Dmp/Cavalier (M) Axe {SALVAGED}-walk.dmp"
+ALIGN 4
+SwordPalStand:
+#incbin "Dmp/Paladin (M) v2 Sword {RobertFPY}-stand.dmp"
+ALIGN 4
+SwordPalMove:
+#incbin "Dmp/Paladin (M) v2 Sword {RobertFPY}-walk.dmp"
+ALIGN 4
+LancePalStand:
+#incbin "Dmp/Paladin (M) v2 Lance {Pikmin}-stand.dmp"
+ALIGN 4
+LancePalMove:
+#incbin "Dmp/Paladin (M) v2 Lance {Pikmin}-walk.dmp"
+ALIGN 4
+AxePalStand:
+#incbin "Dmp/Paladin (M) v2 Axe {RobertFPY}-stand.dmp"
+ALIGN 4
+AxePalMove:
+#incbin "Dmp/Paladin (M) v2 Axe {RobertFPY}-walk.dmp"
+ALIGN 4
+SwordPalFStand:
+#incbin "Dmp/Paladin (F) Sword {RobertFPY}-stand.dmp"
+ALIGN 4
+SwordPalFMove:
+#incbin "Dmp/Paladin (F) Sword {RobertFPY}-walk.dmp"
+ALIGN 4
+LancePalFStand:
+#incbin "Dmp/Paladin (F) Lance {L95}-stand.dmp"
+ALIGN 4
+LancePalFMove:
+#incbin "Dmp/Paladin (F) Lance {L95}-walk.dmp"
+ALIGN 4
+AxePalFStand:
+#incbin "Dmp/Paladin (F) Axe {L95}-stand.dmp"
+ALIGN 4
+AxePalFMove:
+#incbin "Dmp/Paladin (F) Axe {L95}-walk.dmp"
+ALIGN 4
+ScoutStand:
+#incbin "Dmp/Scout (M) {flasuban}-stand.dmp"
+ALIGN 4
+ScoutMove:
+#incbin "Dmp/Scout (M){flasuban}-walk.dmp"
+ALIGN 4
+ScoutFStand:
+#incbin "Dmp/Scout (F){flasuban}-stand.dmp"
+ALIGN 4
+ScoutFMove:
+#incbin "Dmp/Scout (F){flasuban}-walk.dmp"
+ALIGN 4
+WyvernStand:
+#incbin "Dmp/Wyvern{Scraiza}-stand.dmp"
+ALIGN 4
+WyvernMove:
+#incbin "Dmp/Wyvern{Scraiza}-walk.dmp"
+ALIGN 4
+ThiefStand:
+#incbin "Dmp/Thief(NB){Scraiza}-stand.dmp"
+ALIGN 4
+ThiefMove:
+#incbin "Dmp/Thief(NB){Scraiza}-walk.dmp"
+ALIGN 4
+SwordSoldStand:
+#incbin "Dmp/Sword Soldier {Pikmin, L95, Pushwall}-stand.dmp"
+ALIGN 4
+SwordSoldMove:
+#incbin "Dmp/Sword Soldier {Pikmin, L95, Pushwall}-walk.dmp"
+ALIGN 4
+StaffMageStand:
+#incbin "Dmp/StaffMage {BatimaTheBat}-stand.dmp"
+ALIGN 4
+StaffMageMove:
+#incbin "Dmp/StaffMage {BatimaTheBat}-walk.dmp"
+ALIGN 4
+SorcererStand:
+#incbin "Dmp/Sorcerer {Unknown}-stand.dmp"
+ALIGN 4
+SorcererMove:
+#incbin "Dmp/Sorcerer{Unknown}-walk.dmp"
+ALIGN 4
+SniperStand:
+#incbin "Dmp/Sniper (M) {ArcherBias}-stand.dmp"
+ALIGN 4
+SniperMove:
+#incbin "Dmp/Sniper (M) {ArcherBias}-walk.dmp"
+ALIGN 4
+SniperFStand:
+#incbin "Dmp/Sniper (F) v2 {ArcherBias}-stand.dmp"
+ALIGN 4
+SniperFMove:
+#incbin "Dmp/Sniper (F) v2 {ArcherBias}-walk.dmp"
+ALIGN 4
+ShamanFStand:
+#incbin "Dmp/Shaman (F) {IS}-stand.dmp"
+ALIGN 4
+ShamanFMove:
+#incbin "Dmp/Shaman (F) {IS}-walk.dmp"
+ALIGN 4
+SentinelStand:
+#incbin "Dmp/Sentinel {Unknown}-stand.dmp"
+ALIGN 4
+SentinelMove:
+#incbin "Dmp/Sentinel {Unknown}-walk.dmp"
+ALIGN 4
+RogueFStand:
+#incbin "Dmp/Rogue (F) {Unknown}-stand.dmp"
+ALIGN 4
+RogueFMove:
+#incbin "Dmp/Rogue (F) {Unknown}-walk.dmp"
+ALIGN 4
+RangerFStand:
+#incbin "Dmp/Ranger (F) Improved Bow {flasuban}-stand.dmp"
+ALIGN 4
+RangerFMove:
+#incbin "Dmp/Ranger (F) Improved Bow {flasuban}-walk.dmp"
+ALIGN 4
+PirateStand:
+#incbin "Dmp/Pirate (M) DS-Style Axe {Der}-stand.dmp"
+ALIGN 4
+PirateMove:
+#incbin "Dmp/Pirate (M) DS-Style Axe {Der}-walk.dmp"
+ALIGN 4
+PirateFStand:
+#incbin "Dmp/Pirate (F) Axe {StreetHero}-stand.dmp"
+ALIGN 4
+PirateFMove:
+#incbin "Dmp/Pirate (F) Axe {StreetHero}-walk.dmp"
+ALIGN 4
+PegKnightStand:
+#incbin "Dmp/PegKnight {Flasuban}-stand.dmp"
+ALIGN 4
+PegKnightMove:
+#incbin "Dmp/PegKnight {Flasuban}-walk.dmp"
+ALIGN 4
+OutlawStand:
+#incbin "Dmp/Outlaw (M) {Rasdel}-stand.dmp"
+ALIGN 4
+OutlawMove:
+#incbin "Dmp/Outlaw (M) {Rasdel}-walk.dmp"
+ALIGN 4
+OutlawFStand:
+#incbin "Dmp/Outlaw (F)  {Alice}-stand.dmp"
+ALIGN 4
+OutlawFMove:
+#incbin "Dmp/Outlaw (F)  {Alice}-walk.dmp"
+ALIGN 4
+MercFStand:
+#incbin "Dmp/Mercenary (F) Sword {Agro}-stand.dmp"
+ALIGN 4
+MercFMove:
+#incbin "Dmp/Mercenary (F) Sword {Agro}-walk.dmp"
+ALIGN 4
+AdventurerStand:
+#incbin "Dmp/Marksman (M) Nuramon-style {ArcherBias}-stand.dmp"
+ALIGN 4
+AdventurerMove:
+#incbin "Dmp/Marksman (M) Nuramon-style {ArcherBias}-walk.dmp"
+ALIGN 4
+AdventurerFStand:
+#incbin "Dmp/Marksman (F) Nuramon-style {ArcherBias}-stand.dmp"
+ALIGN 4
+AdventurerFMove:
+#incbin "Dmp/Marksman (F) Nuramon-style {ArcherBias}-walk.dmp"
+ALIGN 4
+SwordArmorStand:
+#incbin "Dmp/Knight (U) Sword {Agro}-stand.dmp"
+ALIGN 4
+SwordArmorMove:
+#incbin "Dmp/Knight (U) Sword {Agro}-walk.dmp"
+ALIGN 4
+LanceArmorStand:
+#incbin "Dmp/Knight (U) Lance Alt 16x16 {Agro}-stand.dmp"
+ALIGN 4
+BowArmorStand:
+#incbin "Dmp/Knight (U) Bow {Agro, Blademaster}-stand.dmp"
+ALIGN 4
+BowArmorMove:
+#incbin "Dmp/Knight (U) Bow {Agro}-walk.dmp"
+ALIGN 4
+AxeArmorStand:
+#incbin "Dmp/Knight (U) Axe {Agro}-stand.dmp"
+ALIGN 4
+AxeArmorMove:
+#incbin "Dmp/Knight (U) Axe {Agro}-walk.dmp"
+ALIGN 4
+HeroStand:
+#incbin "Dmp/Hero (M) Brown Shield Sword {Pikmin}-stand.dmp"
+ALIGN 4
+HeroMove:
+#incbin "Dmp/Hero (M) Brown Shield Sword {Pikmin}-walk.dmp"
+ALIGN 4
+HeroFStand:
+#incbin "Dmp/Hero (F) Brown Shield Sword {Pikmin, Pushwall}-stand.dmp"
+ALIGN 4
+HeroFMove:
+#incbin "Dmp/Hero (F) Brown Shield Sword {Pikmin, Pushwall}-walk.dmp"
+ALIGN 4
+FreelancerStand:
+#incbin "Dmp/Freelancer {SALVAGED}-stand.dmp"
+ALIGN 4
+FreelancerMove:
+#incbin "Dmp/Freelancer {SALVAGED}-walk.dmp"
+ALIGN 4
+FighterStand:
+#incbin "Dmp/Fighter (M) Revamped Axe {Alusq}-stand.dmp"
+ALIGN 4
+FighterMove:
+#incbin "Dmp/Fighter (M) Revamped Axe {Alusq}-walk.dmp"
+ALIGN 4
+FighterFStand:
+#incbin "Dmp/Fighter (F) Axe {Alusq}-stand.dmp"
+ALIGN 4
+FighterFMove:
+#incbin "Dmp/Fighter (F) Axe {Alusq}-walk.dmp"
+ALIGN 4
+FalcoStand:
+#incbin "Dmp/FalcoKnight Revision Lance {flasuban}-stand.dmp"
+ALIGN 4
+FalcoMove:
+#incbin "Dmp/FalcoKnight Revision Lance {flasuban}-walk.dmp"
+ALIGN 4
+DragoStand:
+#incbin "Dmp/DragonKnight{Scraiza}-stand.dmp"
+ALIGN 4
+DragoMove:
+#incbin "Dmp/DragonKnight{Scraiza}-walk.dmp"
+ALIGN 4
+ClericStand:
+#incbin "Dmp/Cleric (F) Improved {flasuban}-stand.dmp"
+ALIGN 4
+ClericMove:
+#incbin "Dmp/Cleric (F) Improved {flasuban}-walk.dmp"
+ALIGN 4
+ChampStand:
+#incbin "Dmp/Champion {Spud}-stand.dmp"
+ALIGN 4
+ChampMove:
+#incbin "Dmp/Champion{Spud}-walk.dmp"
+ALIGN 4
+BerserkerStand:
+#incbin "Dmp/Berserker (M) Hawkzerker Axe {NYZgamer3}-stand.dmp"
+ALIGN 4
+BerserkerMove:
+#incbin "Dmp/Berserker (M) Hawkzerker Axe {NYZgamer3}-walk.dmp"
+ALIGN 4
+BerserkerFStand:
+#incbin "Dmp/Berserker (F) Hawkzerker Axe {Pikmin, Der}-stand.dmp"
+ALIGN 4
+BerserkerFMove:
+#incbin "Dmp/Berserker (F) Hawkzerker Axe {Pikmin, Der}-walk.dmp"
+ALIGN 4
+AxeSoldierStand:
+#incbin "Dmp/Axe Soldier {Pikmin, L95}-stand.dmp"
+ALIGN 4
+AxeSoldierMove:
+#incbin "Dmp/Axe Soldier{Pikmin, L95}-walk.dmp"
+ALIGN 4
+AssassinStand:
+#incbin "Dmp/Assassin (U) Generic Hood {Archerbias}-stand.png.dmp"
+ALIGN 4
+AssassinMove:
+#incbin "Dmp/Assassin (U) Generic Hood {Archerbias}-walk.png.dmp"
+ALIGN 4
+ArcherStand:
+#incbin "Dmp/Archer (M) Improved v1 {Der}-stand.dmp"
+ALIGN 4
+ArcherMove:
+#incbin "Dmp/Archer (M) Improved v1 {Der}-walk.dmp"
+ALIGN 4
+ArcherFStand:
+#incbin "Dmp/Archer (F) Improved {Der}-stand.dmp"
+ALIGN 4
+ArcherFMove:
+#incbin "Dmp/Archer (F) Improved {Der}-walk.dmp"
+ALIGN 4
+WarriorFStand:
+#incbin "Dmp/Warrior (F) Axe {FEGirls}-stand.dmp"
+ALIGN 4
+WarriorFMove:
+#incbin "Dmp/Warrior (F) Axe {FEGirls}-walk.dmp"
+ALIGN 4
+BallisticianStand:
+#incbin "Dmp/Ballistician (M) Improved {flasuban, Der}-stand.dmp"
+ALIGN 4
+BallisticianMove:
+#incbin "Dmp/Ballistician (M) Improved {flasuban, Der}-walk.dmp"
+ALIGN 4
+MonkFStand:
+#incbin "Dmp/Monk (F) {Teraspark}-stand.dmp"
+ALIGN 4
+MonkFMove:
+#incbin "Dmp/Monk (F) {Teraspark}-walk.dmp"
